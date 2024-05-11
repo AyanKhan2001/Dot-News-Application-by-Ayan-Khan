@@ -1,0 +1,5 @@
+![Entertainment](https://github.com/AyanKhan2001/Dot-News-Application-by-Ayan-Khan/assets/91601194/af94cef4-56cf-46f7-bead-8f82cb87fc51)
+![Health](https://github.com/AyanKhan2001/Dot-News-Application-by-Ayan-Khan/assets/91601194/d7df7feb-948f-4d60-ba4e-55b0993fdee3)
+![Home](https://github.com/AyanKhan2001/Dot-News-Application-by-Ayan-Khan/assets/91601194/1a0380d6-adbf-4485-a8fd-8ff144374318)
+![Sports](https://github.com/AyanKhan2001/Dot-News-Application-by-Ayan-Khan/assets/91601194/c7dc9129-5c04-44e2-94fa-6ca85f5f27ad)
+![Tech](https://github.com/AyanKhan2001/Dot-News-Application-by-Ayan-Khan/assets/91601194/32574671-8f6c-4014-9ded-c1e78b5a2c95)
